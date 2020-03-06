@@ -1,0 +1,64 @@
+//std::cout << rect.left << " " << rect.top << " " << this->player->sprite->getPosition().x << " " << this->player->sprite->getPosition().x - rect.left << std::endl;
+			//if (this->player->sprite->getPosition().x+32 > (*WallArray)[counter]->sprite->getPosition().x || this->player->sprite->getPosition().x < (*WallArray)[counter]->sprite->getPosition().x+32)
+			///*	if (this->player->direction == 0 && (this->player->direction == this->player->bD) && this->player->sprite->getPosition().y - rect.top < 0 && this->player->sprite->getPosition().y> this->player->bY && this->player->sprite->getPosition().x + 32 < (*WallArray)[counter]->sprite->getPosition().x)
+			//	{
+			//		this->player->canMoveDown = false;
+			//		this->player->canMoveLeft = false;
+			//		this->player->canMoveRight = false;
+			//		this->player->sprite->move(0, -10);
+
+			//	}
+			//	else*/  if ((this->player->direction == this->player->bD) && this->player->direction == 1 && this->player->sprite->getPosition().x - rect.left == 0 && this->player->sprite->getPosition().x < this->player->bX)
+			//	{
+			//		this->player->canMoveLeft = false;
+			//		this->player->canMoveUp = false;
+			//		this->player->canMoveDown = false;
+			//		this->player->sprite->move(10, 0);
+			//	}
+
+			//	else if (this->player->direction == 2 && (this->player->direction == this->player->bD) && this->player->sprite->getPosition().x - rect.left<0 && this->player->sprite->getPosition().x> this->player->bX)
+			//	{
+			//		this->player->canMoveRight = false;
+			//		this->player->canMoveUp = false;
+			//		this->player->canMoveDown = false;
+			//		this->player->sprite->move(-10, 0);
+			//	}
+
+			//	/*else if (this->player->direction == 3 && (this->player->direction == this->player->bD) && this->player->sprite->getPosition().y - rect.top == 0 && this->player->sprite->getPosition().y < this->player->bY&& this->player->sprite->getPosition().x + 32 < (*WallArray)[counter]->sprite->getPosition().x)
+			//	{
+			//		this->player->canMoveUp = false;
+			//		this->player->canMoveLeft = false;
+			//		this->player->canMoveRight = false;
+			//		this->player->sprite->move(0, 10);
+			//	}*/
+			//	else {
+			//		/*	this->player->canMoveUp = true;
+			//			this->player->canMoveDown = true;
+			//			this->player->canMoveLeft = true;
+			//			this->player->canMoveRight = true;*/
+			//	}
+			//else
+			//{
+			//}
+
+				/*	if (this->player->direction == 0)
+			{
+				this->player->canMoveDown = false;
+				this->player->sprite->move(0, -1);
+			}
+			 if(this->player->direction == 1)
+			{
+				this->player->canMoveLeft = false;
+				this->player->sprite->move(1, 0);
+			}
+			if (this->player->direction == 2)
+			{
+				this->player->canMoveRight = false;
+				this->player->sprite->move(-1, 0);
+			}
+			 if (this->player->direction == 3)
+			{
+				this->player->canMoveUp = false;
+				this->player->sprite->move(0, 1);
+			}
+			else {}*/

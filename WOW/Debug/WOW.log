@@ -1,0 +1,24 @@
+﻿  LevelState.cpp
+d:\programowanie\c++\projekt_3_semestr\wow\nowy folder\wow_20\wow\player.h(13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\programowanie\c++\projekt_3_semestr\wow\nowy folder\wow_20\wow\attack.h(6): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\programowanie\c++\projekt_3_semestr\wow\nowy folder\wow_20\wow\levelstate.cpp(42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\programowanie\c++\projekt_3_semestr\wow\nowy folder\wow_20\wow\levelstate.cpp(65): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+d:\programowanie\c++\projekt_3_semestr\wow\nowy folder\wow_20\wow\levelstate.cpp(67): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+d:\programowanie\c++\projekt_3_semestr\wow\nowy folder\wow_20\wow\levelstate.cpp(138): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  WOW.vcxproj -> D:\Programowanie\C++\Projekt_3_semestr\WOW\Nowy folder\WOW_20\Debug\WOW.exe
