@@ -1,0 +1,33 @@
+﻿  Attack.cpp
+d:\programowanie\c++\projekt_3_semestr\wow\gra\gra_wow\wow\entity.h(15): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  Button.cpp
+d:\programowanie\c++\projekt_3_semestr\wow\gra\gra_wow\wow\button.h(9): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  Coin.cpp
+d:\programowanie\c++\projekt_3_semestr\wow\gra\gra_wow\wow\entity.h(15): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  Entity.cpp
+d:\programowanie\c++\projekt_3_semestr\wow\gra\gra_wow\wow\entity.h(15): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  Game.cpp
+d:\programowanie\c++\projekt_3_semestr\wow\gra\gra_wow\wow\button.h(9): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  GameState.cpp
+d:\programowanie\c++\projekt_3_semestr\wow\gra\gra_wow\wow\button.h(9): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  InstructionState.cpp
+d:\programowanie\c++\projekt_3_semestr\wow\gra\gra_wow\wow\button.h(9): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  LevelState.cpp
+d:\programowanie\c++\projekt_3_semestr\wow\gra\gra_wow\wow\button.h(9): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  MainMenuState.cpp
+d:\programowanie\c++\projekt_3_semestr\wow\gra\gra_wow\wow\button.h(9): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  Player.cpp
+d:\programowanie\c++\projekt_3_semestr\wow\gra\gra_wow\wow\entity.h(15): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  StartArrow.cpp
+d:\programowanie\c++\projekt_3_semestr\wow\gra\gra_wow\wow\entity.h(15): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  State.cpp
+d:\programowanie\c++\projekt_3_semestr\wow\gra\gra_wow\wow\button.h(9): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  TextDisplay.cpp
+d:\programowanie\c++\projekt_3_semestr\wow\gra\gra_wow\wow\entity.h(15): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  Wall.cpp
+d:\programowanie\c++\projekt_3_semestr\wow\gra\gra_wow\wow\entity.h(15): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  WOW.cpp
+d:\programowanie\c++\projekt_3_semestr\wow\gra\gra_wow\wow\button.h(9): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  Enemy.cpp
+d:\programowanie\c++\projekt_3_semestr\wow\gra\gra_wow\wow\entity.h(15): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  Generating Code...
